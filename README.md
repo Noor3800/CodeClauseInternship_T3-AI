@@ -56,6 +56,8 @@ It's a fun way to explore game logic and build simple artificial intelligence in
 
 ---
 
+---
+
 ## ✨ Future Enhancements
 
 - 🔲 Add GUI using Tkinter or Pygame
